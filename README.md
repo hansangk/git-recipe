@@ -6,5 +6,5 @@
 4. 소고기를 볶는다.
 5. 계란 후라이를 만든다.
 6. 밥 위에 같은 나물이 겹치기 않도록 하여 올린다.
-    ![비빔밥 이미지](https://img-cf.kurly.com/shop/data/goodsview/20190920/gv00000062332_1.jpg =250x250)
+    ![비빔밥 이미지](https://img-cf.kurly.com/shop/data/goodsview/20190920/gv00000062332_1.jpg|width=250px)
 7. 고추장을 볶아서 얹는다.
